@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zumenoi.github.io/sitemap/sitemap.txt
